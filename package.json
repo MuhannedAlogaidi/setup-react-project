@@ -1,0 +1,19 @@
+{
+  "name": "setup-react-project",
+  "version": "1.0.0",
+  "description": "setup react project without CRA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhannedAlogaidi/setup-react-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhannedAlogaidi/setup-react-project/issues"
+  },
+  "homepage": "https://github.com/MuhannedAlogaidi/setup-react-project#readme"
+}
