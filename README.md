@@ -14,3 +14,11 @@
 # command : "build":"webpack --mode production"
 
 **** Test with node dist/main.js ****  Done!
+
+# Step 5 : Configure webpack to work with React
+# command : npm install react react-dom
+# command : npm install --save-dev @babel/core babel-loader @babel/preset-env @babel/preset-react
+# command : touch babel.config.json
+# command : touch webpack.config.js
+
+# confige : Add the configuration for each file
