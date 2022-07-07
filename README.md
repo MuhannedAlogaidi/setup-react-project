@@ -12,3 +12,5 @@
 # Step 4 : Add start and build script in package.json
 # command : "start":"webpack --mode development"
 # command : "build":"webpack --mode production"
+
+**** Test with node dist/main.js ****  Done!
