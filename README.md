@@ -8,3 +8,7 @@
 # Step 3 : Create src directory and index.js file 
 # command : mkdire src
 # command : cd src touch  index
+
+# Step 4 : Add start and build script in package.json
+# command : "start":"webpack --mode development"
+# command : "build":"webpack --mode production"
